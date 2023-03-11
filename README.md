@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- Fathan Nur Sidiq - FE5414564
 - Bob
